@@ -1,0 +1,1 @@
+{"Version":"1.0.0.0","Msg":"第一次更新文件额","MsgUrl":"https://raw.githubusercontent.com/LANCE-PCJT/DebugTools/master/Version.txt","ExeUrl":"https://raw.githubusercontent.com/LANCE-PCJT/DebugTools/master/%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7.exe"}
